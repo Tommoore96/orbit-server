@@ -85,7 +85,7 @@ In the shell type:
 
 In the shell type:
 
-`$npm start`
+`$npm start` or `$yarn start`
 
 **Happy hacking!!**
 
